@@ -11,6 +11,9 @@
 
 💻 Researches about datas, machine learning and Compute Vision
 
+[![FelipeAmaral13's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAmaral13)](https://github.com/FelipeAmaral13/github-readme-stats)
+
+
 
 
 <!--
